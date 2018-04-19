@@ -10,8 +10,8 @@ Team #
 - [ ] Readme ingevuld
 - [ ] Onderzoek afgerond (_en gedocumenteerd_)
 - [ ] GO gekregen
-- [ ] .Gitignore aangemaakt.
-- [] Logboek aangemaakt en link naar docenten gestuurd.
+- [ ] Gitignore aangemaakt.
+- [ ] Logboek aangemaakt en link naar docenten gestuurd.
 - [ ] Portfolio af en geupload
 - [ ] Tussen presentatie gedaan
 - [ ] Eind presentatie
