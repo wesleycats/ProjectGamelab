@@ -4,24 +4,13 @@ Team #
 2. <Teamlid2>
 3. <Teamlid3>
 
-
-## Checklist
-- [ ] Git repository geforked
-- [ ] Readme ingevuld
-- [ ] Onderzoek afgerond (_en gedocumenteerd_)
-- [ ] GO gekregen
-- [ ] Gitignore aangemaakt.
-- [ ] Logboek aangemaakt en link naar docenten gestuurd.
-- [ ] Portfolio af en geupload
-- [ ] Tussen presentatie gedaan
-- [ ] Eind presentatie
-- [ ] Portfolio
+## Ontwerp
+Beschrijf hier kort jullie project
 
 ## Portfolio
-- [ ] Onderzoek
-- [ ] Class Diagram
-- [ ] Design Document
-- [ ] Documentatie van de code. (doxygen, bv)
-- [ ] Testplannen
-- [ ] Testrapports
-- [ ] Usertests (op Youtube)
+Zet hier de links neer naar jullie documentatie.
+
+* [Onderzoek]()
+* [Ontwerp]()
+* [Testrapportage]()
+* [Presentatie]()

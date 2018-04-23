@@ -1,12 +1,15 @@
 # Planning
-
+Met uitzondering van sprint 0 en 4 duren alle sprints 2 weken. 
 ## Sprint 0   <SPRINT>
 Deze sprint staat in teken van het opstarten van het project. De studenten krijgen de briefing, maken de keuze welke hardware gebruikt gaat worden, en maken een initiele plan hoe ze het gaan aanpakken. Dit plan presenteren ze en de docenten geven ze een go of een nogo.
 
 ### Week 1 (14 mei)
 * Teams maken
-* **Presentatie 1 (GONOGO)**
 * Onderzoek doen
+* **Presentatie 1 (GONOGO)**
+ * [ ] Repository forken
+ * [ ] Templates kopieren
+ * [ ] [Readme invullen](../readme.md)
 * Start project
 
 ## Sprint 1   <SPRINT>

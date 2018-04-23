@@ -1,5 +1,3 @@
-# Portfolio
-Zet hier de links neer naar jullie documentatie.
 ## Presentatie Templates
 ### Presentatie
 Voor presentaties 1, 2 en eind wordt dezelfde template gebruikt.  
