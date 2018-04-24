@@ -6,26 +6,27 @@ Deze sprint staat in teken van het opstarten van het project. De studenten krijg
 ### Week 1 (14 mei)
 * Teams maken
 * Onderzoek doen
-* **Presentatie 1 (GONOGO)**
+* **Presentatie 1 - (GONOGO)**
+* Start project
   * [ ] Repository forken
   * [ ] Templates kopieren
   * [ ] [Readme invullen](../readme.md)
-* Start project
 
 ## Sprint 1   <SPRINT>
-Deze sprint staat in teken van de 'Hello World'. Aan het einde van deze sprint gaan de studenten een eerste speelbare prototype opleveren. Het doel van dit prototype is om de laten zien dat hun techniek werkt, en dat ze hun input/output werkend hebben gekrijgen.
+Deze sprint staat in teken van de 'Hello World'. Aan het einde van deze sprint gaan de studenten een eerste speelbare prototype opleveren. Het doel van dit prototype is om de laten zien dat hun techniek werkt, en dat ze hun input/output werkend hebben gekregen.
 
 ### Week 2 (21 mei)
-* WORDS
 
 ### Week 3 (28 mei)
 
 ## Sprint 2   <SPRINT>
-Aan het einde van deze sprint gaan de studenten hun voortgang presenteren.
-### Week 4
+Deze sprint staat in het teken van de prototype. De studenten hebben een werkende versie en kunnen deze presenteren. Dat gebeurt klassikaal met de presentaties en bij mediabites. Aan het einde van deze sprint gaan de studenten hun voortgang presenteren.
+### Week 4 (4 juni)
+**Mediabites**  
+Deze week is er mediabites dus zijn er minder projecturen. Enkele groepen gaan hun projecten presenteren op mediabites.
 ### Week 5
-* **Presentatie 2**  
-Tijdens deze presentatie gaan de studenten hun huidige voortgang presenteren. Ze laten hun huidige onderzoek ziet, en het ontwerp. Ook de prototype van de applicatie wordt getoond.
+**Presentatie 2 - Voortgang**  
+Tijdens deze presentatie gaan de studenten hun huidige voortgang aan de klas presenteren. Ze laten hun huidige onderzoek zien, en het ontwerp. Ook de prototype van de applicatie wordt getoond. Deze presentatie duurt hoogstens 10 minuten.
 
 ## Sprint 3   <SPRINT>
 ### Week 6
@@ -33,7 +34,14 @@ Tijdens deze presentatie gaan de studenten hun huidige voortgang presenteren. Ze
 
 ## Sprint 4   <SPRINT>
 ### Week 8
+Uiterlijk 4 juli leveren jullie het portfolio in. Dat wilt zeggen, vanaf 4 juli is jullie documentatie klaar om nagekeken te worden door de MA beoordelaars.
 
 ## Sprint EXIT
-In deze sprint worden de presentaties en de CGI examens gehouden .
+In deze sprint worden de presentaties en de CGI examens gehouden. De studenten worden hier beoordeeld op hun product en hoe ze tot hun eindproduct zijn gekomen.
+
 ### Week 9
+* Goedkeuring Portfolio
+* **Eindpresentatie**  
+  Deze presentatie duurt hoogstens 10 minuten. Tijdens deze 10 minuten laten de student hun eindproduct zien en bespreken hun proces (scrum).
+* **CGI**  
+  Direct na de presentatie volgt een Criterium Gericht Interview waarbij de studenten hun (technische) keuzes kunnen verantwoorden tegenover een MA beoordelaar en een externe beoordelaar.
