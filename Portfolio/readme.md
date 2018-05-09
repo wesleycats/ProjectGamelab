@@ -6,7 +6,7 @@ Het logboek komt te staan op Google Calenders. Iedere groep maakt zijn eigen cal
 Voor presentaties 1, 2 en eind wordt dezelfde template gebruikt.  
 In de presentatie gaan jullie je portfolios toelichten. Jullie gaan dus presenteren:
 * **Scrum**  
-Aangezien jullie met scrum werken hebben jullie een scrum board. Presenteer jullie scrumboard, product backlog, sprint backlog en taken.
+We gaan er vanuit dat jullie iets doen met project managment en planning. Laat jullie methodiek zien. 
 
 * **Onderzoek**  
 Jullie gaan presenteren wat jullie onderzocht hebben en hoe jullie tot de conclusie zijn gekomen.   
