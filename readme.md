@@ -13,6 +13,8 @@ Het is een platformer die je speelt met behulp van een DJ paneel / Sliders.
 Zet hier de links neer naar jullie documentatie.
 
 * [Onderzoek]()
-* [Ontwerp]()
-* [Testrapportage]()
+* [Ontwerp](https://docs.google.com/document/d/1WW_HIva2eLBV-PzljQwtHihHMHgq661LVj5nspcI_eM/edit?usp=sharing)
+* [Testrapportage](https://docs.google.com/document/d/1fy5ykpHnMOh5VwNOTHFtnHXKCSc-JAGIbyy_iGQ3Os0/edit?usp=sharing)
+* [Logboek](https://docs.google.com/spreadsheets/d/1PKKy2XQT2OocUrWJSbnPvL9hrHnnXTRHDECJJmMa3P0/edit?usp=sharing)
+* [Research](https://docs.google.com/document/d/1GJKjF89o4VMoo5u-D2PX5_HXyZGDQ4IV-SnFaEFRYwM/edit#heading=h.yh7a925c36b4)
 * [Presentatie]()
