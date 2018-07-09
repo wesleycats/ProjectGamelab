@@ -1,3 +1,3 @@
 # Project
 
-* [Project] (https://github.com/wesleycats/InputOutputProject)
+* [Project](https://github.com/wesleycats/InputOutputProject)
