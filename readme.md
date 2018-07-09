@@ -7,7 +7,7 @@ Team #13
 ## Ontwerp
 Je bent een kangoeroe die zijn kinderen moet redden van een nijlpaard. De nijlpaard wil een zonnebril die jij moet vinden.
 
-Het is een platformer die je speelt met behulp van een DJ paneel / Sliders.
+Het is een platformer die je speelt met behulp van een control knobs.
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
